@@ -1,0 +1,7 @@
+Java Questions and Answers
+
+Explain OOps Principles?
+they are four types such as ENcapsulation,Inheritance,Polymorphism and Abstraction.
+
+explain the implementation of abstraction?
+we can implement abstraction by declaring a class as abstract using an abstract keyword.
